@@ -1,2 +1,2 @@
 # TypeTerra
-Personal implementation of a simple version of vim.
+My personal implementation of a simple version of vim.
